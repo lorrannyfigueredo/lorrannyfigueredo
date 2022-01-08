@@ -1,16 +1,27 @@
-### Hi there 👋
+# Olá, sou Lorranny Figueredo 👋🏽 👩
+👩🏾‍🏫 Desenvolvedora de software.
 
-<!--
-**lorrannyfigueredo/lorrannyfigueredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥️ Tecnologias
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
+</div>
+
+ 
+ ## 👍 Me siga
+ 
+<div> 
+  <a href = "mailto:lorrannyfigueredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lorrannyfigueredo/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+
+##
+<div>
+  <a href="https://github.com/LooFig">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LooFig&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LooFig&layout=compact&langs_count=16&theme=dracula"/>
+</div>
