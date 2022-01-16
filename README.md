@@ -1,5 +1,5 @@
-# Olá, sou Lorranny Figueredo 👋🏽 👩
-👩🏾‍🏫 Desenvolvedora de software.
+# Olá, sou Lorranny Figueredo 
+Desenvolvedora de software
 
 ## 🖥️ Tecnologias
 
